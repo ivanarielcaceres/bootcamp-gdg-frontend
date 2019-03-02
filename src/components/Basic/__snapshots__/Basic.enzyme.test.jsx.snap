@@ -64,7 +64,7 @@ ShallowWrapper {
                                 onClick={[Function]}
                                 tag="button"
                         >
-                                Add element
+                                Add element 2
                         </Button>
                 </Col>
                 <Col
@@ -162,7 +162,7 @@ ShallowWrapper {
                                     onClick={[Function]}
                                     tag="button"
                         >
-                                    Add element
+                                    Add element 2
                         </Button>
             </Col>
             <Col
@@ -256,7 +256,7 @@ ShallowWrapper {
                                 onClick={[Function]}
                                 tag="button"
                 >
-                                Add element
+                                Add element 2
                 </Button>
 </Col>,
               <Col
@@ -304,7 +304,7 @@ ShallowWrapper {
                   onClick={[Function]}
                   tag="button"
 >
-                  Add element
+                  Add element 2
 </Button>,
                 "sm": Object {
                   "offset": 1,
@@ -325,13 +325,13 @@ ShallowWrapper {
                 "key": undefined,
                 "nodeType": "class",
                 "props": Object {
-                  "children": "Add element",
+                  "children": "Add element 2",
                   "color": "primary",
                   "onClick": [Function],
                   "tag": "button",
                 },
                 "ref": null,
-                "rendered": "Add element",
+                "rendered": "Add element 2",
                 "type": [Function],
               },
               "type": [Function],
@@ -490,7 +490,7 @@ ShallowWrapper {
                                         onClick={[Function]}
                                         tag="button"
                               >
-                                        Add element
+                                        Add element 2
                               </Button>
                     </Col>
                     <Col
@@ -588,7 +588,7 @@ ShallowWrapper {
                                           onClick={[Function]}
                                           tag="button"
                             >
-                                          Add element
+                                          Add element 2
                             </Button>
               </Col>
               <Col
@@ -682,7 +682,7 @@ ShallowWrapper {
                                     onClick={[Function]}
                                     tag="button"
                   >
-                                    Add element
+                                    Add element 2
                   </Button>
 </Col>,
                 <Col
@@ -730,7 +730,7 @@ ShallowWrapper {
                     onClick={[Function]}
                     tag="button"
 >
-                    Add element
+                    Add element 2
 </Button>,
                   "sm": Object {
                     "offset": 1,
@@ -751,13 +751,13 @@ ShallowWrapper {
                   "key": undefined,
                   "nodeType": "class",
                   "props": Object {
-                    "children": "Add element",
+                    "children": "Add element 2",
                     "color": "primary",
                     "onClick": [Function],
                     "tag": "button",
                   },
                   "ref": null,
-                  "rendered": "Add element",
+                  "rendered": "Add element 2",
                   "type": [Function],
                 },
                 "type": [Function],
@@ -960,7 +960,7 @@ ShallowWrapper {
                                 onClick={[Function]}
                                 tag="button"
                         >
-                                Add element
+                                Add element 2
                         </Button>
                 </Col>
                 <Col
@@ -1058,7 +1058,7 @@ ShallowWrapper {
                                     onClick={[Function]}
                                     tag="button"
                         >
-                                    Add element
+                                    Add element 2
                         </Button>
             </Col>
             <Col
@@ -1152,7 +1152,7 @@ ShallowWrapper {
                                 onClick={[Function]}
                                 tag="button"
                 >
-                                Add element
+                                Add element 2
                 </Button>
 </Col>,
               <Col
@@ -1200,7 +1200,7 @@ ShallowWrapper {
                   onClick={[Function]}
                   tag="button"
 >
-                  Add element
+                  Add element 2
 </Button>,
                 "sm": Object {
                   "offset": 1,
@@ -1221,13 +1221,13 @@ ShallowWrapper {
                 "key": undefined,
                 "nodeType": "class",
                 "props": Object {
-                  "children": "Add element",
+                  "children": "Add element 2",
                   "color": "primary",
                   "onClick": [Function],
                   "tag": "button",
                 },
                 "ref": null,
-                "rendered": "Add element",
+                "rendered": "Add element 2",
                 "type": [Function],
               },
               "type": [Function],
@@ -1386,7 +1386,7 @@ ShallowWrapper {
                                         onClick={[Function]}
                                         tag="button"
                               >
-                                        Add element
+                                        Add element 2
                               </Button>
                     </Col>
                     <Col
@@ -1484,7 +1484,7 @@ ShallowWrapper {
                                           onClick={[Function]}
                                           tag="button"
                             >
-                                          Add element
+                                          Add element 2
                             </Button>
               </Col>
               <Col
@@ -1578,7 +1578,7 @@ ShallowWrapper {
                                     onClick={[Function]}
                                     tag="button"
                   >
-                                    Add element
+                                    Add element 2
                   </Button>
 </Col>,
                 <Col
@@ -1626,7 +1626,7 @@ ShallowWrapper {
                     onClick={[Function]}
                     tag="button"
 >
-                    Add element
+                    Add element 2
 </Button>,
                   "sm": Object {
                     "offset": 1,
@@ -1647,13 +1647,13 @@ ShallowWrapper {
                   "key": undefined,
                   "nodeType": "class",
                   "props": Object {
-                    "children": "Add element",
+                    "children": "Add element 2",
                     "color": "primary",
                     "onClick": [Function],
                     "tag": "button",
                   },
                   "ref": null,
-                  "rendered": "Add element",
+                  "rendered": "Add element 2",
                   "type": [Function],
                 },
                 "type": [Function],
@@ -1856,7 +1856,7 @@ ShallowWrapper {
                                 onClick={[Function]}
                                 tag="button"
                         >
-                                Add element
+                                Add element 2
                         </Button>
                 </Col>
                 <Col
@@ -1954,7 +1954,7 @@ ShallowWrapper {
                                     onClick={[Function]}
                                     tag="button"
                         >
-                                    Add element
+                                    Add element 2
                         </Button>
             </Col>
             <Col
@@ -2048,7 +2048,7 @@ ShallowWrapper {
                                 onClick={[Function]}
                                 tag="button"
                 >
-                                Add element
+                                Add element 2
                 </Button>
 </Col>,
               <Col
@@ -2096,7 +2096,7 @@ ShallowWrapper {
                   onClick={[Function]}
                   tag="button"
 >
-                  Add element
+                  Add element 2
 </Button>,
                 "sm": Object {
                   "offset": 1,
@@ -2117,13 +2117,13 @@ ShallowWrapper {
                 "key": undefined,
                 "nodeType": "class",
                 "props": Object {
-                  "children": "Add element",
+                  "children": "Add element 2",
                   "color": "primary",
                   "onClick": [Function],
                   "tag": "button",
                 },
                 "ref": null,
-                "rendered": "Add element",
+                "rendered": "Add element 2",
                 "type": [Function],
               },
               "type": [Function],
@@ -2282,7 +2282,7 @@ ShallowWrapper {
                                         onClick={[Function]}
                                         tag="button"
                               >
-                                        Add element
+                                        Add element 2
                               </Button>
                     </Col>
                     <Col
@@ -2380,7 +2380,7 @@ ShallowWrapper {
                                           onClick={[Function]}
                                           tag="button"
                             >
-                                          Add element
+                                          Add element 2
                             </Button>
               </Col>
               <Col
@@ -2474,7 +2474,7 @@ ShallowWrapper {
                                     onClick={[Function]}
                                     tag="button"
                   >
-                                    Add element
+                                    Add element 2
                   </Button>
 </Col>,
                 <Col
@@ -2522,7 +2522,7 @@ ShallowWrapper {
                     onClick={[Function]}
                     tag="button"
 >
-                    Add element
+                    Add element 2
 </Button>,
                   "sm": Object {
                     "offset": 1,
@@ -2543,13 +2543,13 @@ ShallowWrapper {
                   "key": undefined,
                   "nodeType": "class",
                   "props": Object {
-                    "children": "Add element",
+                    "children": "Add element 2",
                     "color": "primary",
                     "onClick": [Function],
                     "tag": "button",
                   },
                   "ref": null,
-                  "rendered": "Add element",
+                  "rendered": "Add element 2",
                   "type": [Function],
                 },
                 "type": [Function],

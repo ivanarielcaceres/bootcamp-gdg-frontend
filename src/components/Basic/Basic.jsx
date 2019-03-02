@@ -18,7 +18,7 @@ class Basic extends React.Component {
                 color="primary"
                 onClick={addItem.bind(this, `Item ${new Date()}`)}
               >
-                Add element
+                Add element 2
               </Button>
             </Col>
             <Col sm={{ size: 'auto', offset: 1 }}>
