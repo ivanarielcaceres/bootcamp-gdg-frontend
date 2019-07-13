@@ -122,7 +122,7 @@ exports[`Storyshots Basic Basic with no items 1`] = `
             }
           }
         >
-          No hay ningún item
+          Sin items
         </h3>
       </ul>
     </div>
@@ -405,7 +405,7 @@ exports[`Storyshots Full, live app It is running here 1`] = `
             }
           }
         >
-          No hay ningún item
+          Sin items
         </h3>
       </ul>
     </div>
@@ -467,7 +467,7 @@ exports[`Storyshots ItemListing Item Listing with no items 1`] = `
       }
     }
   >
-    No hay ningún item
+    Sin items
   </h3>
 </ul>
 `;
